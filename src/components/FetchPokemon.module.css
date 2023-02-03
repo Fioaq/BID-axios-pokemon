@@ -1,0 +1,14 @@
+.btn{
+    background-color: #ddd;
+    padding: 8px;
+    border: none;
+    border-radius: 0.4rem;
+    font-size: 1rem;
+    box-shadow: 3px 3px black;
+}
+
+.btn:active{
+    transform: translateY(3px);
+    transform: translateX(3px);
+    box-shadow: 1px 1px black;
+}
